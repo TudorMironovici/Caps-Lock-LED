@@ -1,0 +1,20 @@
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.exe.config
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.exe
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.pdb
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csprojAssemblyReference.cache
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps_Lock_LED.Form1.resources
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps_Lock_LED.Properties.Resources.resources
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csproj.GenerateResource.cache
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csproj.CoreCompileInputs.cache
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.exe
+C:\Users\Satellite\source\repos\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.pdb
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.exe.config
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.exe
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\bin\Debug\Caps Lock LED.pdb
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csprojAssemblyReference.cache
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps_Lock_LED.Form1.resources
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps_Lock_LED.Properties.Resources.resources
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csproj.GenerateResource.cache
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.csproj.CoreCompileInputs.cache
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.exe
+C:\Users\Satellite\Documents\School\Freshmen Year\Summer Projects\Caps Lock LED\Caps Lock LED\obj\Debug\Caps Lock LED.pdb
